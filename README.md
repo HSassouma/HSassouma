@@ -1,126 +1,146 @@
- <!-- Profile README for HSassouma -->
+ <div align="center">
 
-<div align="center">
-
-# 👋 Hi, I'm Assouma Elhoussine
-
-### 💻 Web Developer in Training | YouCode Nador
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:17113B,100:06B6D4&height=220&section=header&text=ASSOUMA%20ELHOUSSINE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descSize=14&descAlignY=60&animation=twinkling" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+web+projects+with+HTML+%26+CSS;Learning+JavaScript+and+Backend+Development;Exploring+Laravel+%26+React;Interested+in+Web+Security;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Applications;Frontend+%7C+Backend+Development;Exploring+Cybersecurity;Learning+Something+New+Every+Day" />
 </a>
 
 <br/>
 
-<a href="https://github.com/HSassouma">
-  <img src="https://img.shields.io/badge/GitHub-HSassouma-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-Web%20Development-16A34A?style=for-the-badge" alt="Focus"/>
-<img src="https://img.shields.io/badge/Interest-Cybersecurity-0EA5E9?style=for-the-badge" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/EDUCATION-YouCode%20Nador-8B5CF6?style=for-the-badge&labelColor=09090F" />
+<img src="https://img.shields.io/badge/LOCATION-Morocco-06B6D4?style=for-the-badge&labelColor=09090F" />
+<img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-22C55E?style=for-the-badge&labelColor=09090F" />
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a developer in training at **YouCode Nador**, passionate about building useful web applications and continuously improving my programming skills.
-
-* 💻 Working on web development projects.
-* 🌱 Improving my JavaScript, backend development, and software engineering skills.
-* 🔐 Exploring cybersecurity and secure web development.
-* 🛠️ Learning by building real projects and solving practical problems.
-* 🎯 Goal: become a versatile developer who builds reliable, accessible, and secure applications.
-
----
-
-## 🧰 Technologies & Tools
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend technologies"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb" alt="Backend and database technologies"/>
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" alt="Development tools"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 🌿 Thimdrine — Rif Cooperative Website
-
-A responsive showcase website for a cooperative in the Rif region, presenting its products, story, and order-request form.
-
-**Technologies:** HTML5, CSS3, Flexbox, Media Queries
-
-🔗 [View Live Website](https://hsassouma.github.io/Thimdrine/) · [View Source Code](https://github.com/HSassouma/Thimdrine)
-
-### 🎓 BDEConnect — Student Event Management
-
-A student event management application built with Laravel, Inertia.js, React, and a relational database.
-
-**Technologies:** Laravel, PHP, React, Inertia.js, MySQL/MariaDB
-
-### 🛡️ SentinelScope — Website Security Scanner
-
-A cybersecurity project focused on website security analysis, security findings, and actionable recommendations.
-
-**Technologies:** Laravel, React, Inertia.js, Tailwind CSS, MongoDB
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HSassouma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSassouma&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=HSassouma&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HSassouma/HSassouma/output/snake.svg" alt="Animated contribution snake"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in learning, collaborating on projects, and connecting with other developers.
-
-<div align="center">
+<br/><br/>
 
 <a href="https://github.com/HSassouma">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-HSassouma-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </div>
 
+---
+
+<h2 align="center">◈ ABOUT ME ◈</h2>
+
+<img align="right" width="145" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+```yaml
+name: Assouma Elhoussine
+username: HSassouma
+education: YouCode Nador
+field: Software Engineering & Cybersecurity
+
+interests:
+  - Web Development
+  - Backend Engineering
+  - Cybersecurity
+  - Problem Solving
+
+mindset: "Build. Learn. Improve. Repeat."
+```
+
+I'm a developer in training at **YouCode Nador**, passionate about building useful web applications and exploring how technology works behind the scenes.
+
+I enjoy learning through real projects, experimenting with new technologies, and continuously improving my development skills.
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">◈ TECH STACK ◈</h2>
+
 <div align="center">
 
-**"Build. Learn. Improve. Repeat."** ⚡
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma&theme=dark" />
+
+<br/><br/>
+
+**BACKEND & DATABASES**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,mongodb&theme=dark" />
+
+<br/><br/>
+
+**TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,npm&theme=dark" />
 
 </div>
 
+---
+
+<h2 align="center">◈ MY PROJECTS ◈</h2>
+
+<div align="center">
+
+<a href="https://github.com/HSassouma?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<!-- Dynamic GitHub repository cards -->
+
+<div align="center">
+
+<a href="https://github.com/HSassouma?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HSassouma&repo=Thimdrine&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=06B6D4" />
+</a>
+
+<a href="https://github.com/HSassouma?tab=repositories">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSassouma&theme=tokyonight" />
+</a>
+
+</div>
+
+---
+
+<h2 align="center">◈ GITHUB ANALYTICS ◈</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HSassouma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=06B6D4&icon_color=8B5CF6&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSassouma&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=06B6D4" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=HSassouma&theme=tokyonight&hide_border=true&background=09090F&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" />
+
+</div>
+
+---
+
+<h2 align="center">◈ CONTRIBUTION ACTIVITY ◈</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HSassouma/HSassouma/output/snake.svg" width="100%" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+<h2 align="center">◈ CONNECT WITH ME ◈</h2>
+
+<div align="center">
+
+<a href="https://github.com/HSassouma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HSassouma&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+**"The best way to predict the future is to build it."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:17113B,100:09090F&height=120&section=footer&animation=twinkling" />
+
+</div>
